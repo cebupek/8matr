@@ -1,0 +1,22 @@
+{
+  "name": "romantic-8march-gift",
+  "version": "1.0.0",
+  "description": "Романтический интерактивный подарок на 8 марта с сервером и пингованием каждые 5 секунд",
+  "main": "server_romantic.js",
+  "scripts": {
+    "start": "node server_romantic.js",
+    "dev": "node server_romantic.js"
+  },
+  "keywords": [
+    "8march",
+    "romantic",
+    "gift",
+    "love",
+    "interactive"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
